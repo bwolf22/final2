@@ -1,0 +1,99 @@
+/* GLOBAL ARTICLE STYLES */
+
+/* h2 {
+	font-weight:900;
+	color:#black;
+padding:20px 0 0 0;
+} */
+body {
+
+}
+
+h1 {
+text-align: center;
+
+}
+
+p {
+
+}
+.callout {
+  border: 2px solid #ccc;
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  float: right;
+}
+
+.callout h2 {
+  color: #333;
+}
+
+.callout p {
+  color: #666;
+}
+
+
+
+.navStyle {
+	background-color: #000;
+	color: #fff;
+	height: 50px;
+	padding: 12px;
+	text-align: center;
+}
+.navStyle a {
+	color: #f4f4f4;
+	text-decoration: none;
+}
+.navStyle a:hover {
+	color: #009cff;
+}
+.navItem {
+	margin: 0 25px 0 25px;
+}
+.bodyCopy {
+	padding: 50px 0 0 0;
+}
+.footerStyle {
+	background-color: #009cff;
+	color: #fff;
+	padding: 12px;
+	height: 50px;
+	text-align: center;
+	margin-top: 50px;
+}
+.rtt {
+	text-align: center;
+	margin-top: 50px;
+}
+.rtt a {
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+.rtt a:hover {
+	color: #09639c;
+}
+
+.igc-graph-pie-piece {
+	max-height: 150px;
+	max-width: 200px;
+	width: 120px;
+	height: 120px;
+}
+
+.footerStyle {
+    background-color: black; /* Change 'black' to the desired color */
+    color: white; /* Optional: Change text color to white for better contrast */
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
